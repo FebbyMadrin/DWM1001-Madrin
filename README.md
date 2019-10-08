@@ -12,4 +12,4 @@ fitur dari alat ini:
  * I/O : suhu, button, buzzer
  * sistem back-up dengan menggunakan wifi modul
  * new board
- ** suitable for hospital environment : steril
+ ** suitable for hospital environment : steril, wireless charging
