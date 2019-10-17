@@ -13,3 +13,9 @@ fitur dari alat ini:
  * sistem back-up dengan menggunakan wifi modul
  * new board
  ** suitable for hospital environment : steril, wireless charging
+
+
+Reference:
+1. DWM1001 Datasheet
+2. Gateway setting
+3. API Documentation
